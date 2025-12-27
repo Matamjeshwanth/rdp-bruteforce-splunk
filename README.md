@@ -1,0 +1,1 @@
+A cybersecurity detection engineering project that simulates RDP brute-force attacks and detects them using Splunk SIEM. Covers log ingestion, SPL-based detections, alerting, dashboards, and MITRE ATT&CK mapping
